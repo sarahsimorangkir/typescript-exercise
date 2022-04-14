@@ -1,0 +1,23 @@
+
+.gif-item{
+    display: flex;
+    margin-top: 40px; 
+    flex-wrap: wrap;
+    margin-left: 100px;
+   
+
+}
+.img{
+    width: 300px;
+    height: 300px;
+    padding: 20px;
+}
+.title{
+    color: white;
+    margin-bottom: 30px;
+    text-decoration: underline;
+    cursor: pointer;
+}
+span{
+    color: rgb(240, 14, 89);
+}
