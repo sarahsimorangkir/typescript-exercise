@@ -42,7 +42,7 @@ function Home() {
 
   return (
     <>
-      <h1 className="title">Giphyeyy.</h1>
+      <h1 className="title">Giphyeyy</h1>
       <div className="input">
         <input
           placeholder="Search here..."
